@@ -359,7 +359,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Close friend
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
