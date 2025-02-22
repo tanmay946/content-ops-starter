@@ -231,7 +231,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/WhatsApp Image 2025-02-22 at 19.02.18_0cb40ff9.jpg
           altText: Business consulting
           elementId: ''
           styles:
