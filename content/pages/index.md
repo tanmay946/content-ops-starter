@@ -338,7 +338,7 @@ sections:
     items:
       - title: ''
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: TRIP
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
