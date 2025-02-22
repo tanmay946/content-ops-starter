@@ -73,7 +73,7 @@ sections:
     items:
       - type: FeaturedItem
         title: ABOUT ME
-        subtitle: '"Nashik’s Own, Kicking Towards Success."'
+        subtitle: HELLO
         text: >+
 
           "I’m Tanmay Pangavhane, an 18-year-old student from Nashik,
