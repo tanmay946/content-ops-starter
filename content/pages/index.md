@@ -37,9 +37,9 @@ sections:
         type: Link
     media:
       url: >-
-        /images/DALL·E 2025-02-22 18.22.25 - A stylish and modern logo design
-        featuring the full name 'Tanmay Pangavhane' along with the initials 'T'
-        and 'P' intertwined creatively. The design sh.webp
+        /images/DALL·E 2025-02-22 18.28.28 - A modern and professional logo
+        featuring the full name 'Tanmay Pangavhane' with a creative integration
+        of the initials 'T' and 'P'. The design incorpo.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
