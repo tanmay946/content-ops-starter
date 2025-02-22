@@ -100,6 +100,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
+        tagline: 'Grapes, Goals, and Greatness  A Nashik Spirit."'
       - title: 20x
         subtitle: The Job Stuff
         text: >-
