@@ -161,6 +161,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
         type: FeaturedItem
+        tagline: hello
     actions:
       - label: Get started
         altText: ''
