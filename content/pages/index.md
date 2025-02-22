@@ -8,19 +8,14 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Sharing My Journey Through Art and Code"
-    text: >+
+    text: >
       ### Welcome to My Digital Space
 
 
       Hi, I'm tanmay pangavhane, a  AI expert ,dedicated to creating meaningful
-      experiences through my work. This space is a reflection of my
-      journey—where I showcase my skills, share my projects, and offer insights
-      into what drives me.
-
-
-
-
-
+      experiences through my work. This space is a reflection of my journey
+      where I showcase my skills, share my projects, and offer insights into
+      what drives me.
     actions:
       - label: Get started
         altText: ''
