@@ -7,7 +7,7 @@ sections:
       text: MY SELF TANMAY PANGAVHANE
       color: text-dark
       type: TitleBlock
-    subtitle: ''
+    subtitle: Sharing My Journey Through Art and Code"
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
       instantly reflected in the visual editor and since every visual edit is a
