@@ -145,7 +145,6 @@ sections:
         subtitle: helo
         text: "<div style=\"text-align: left\">**\"Let's Connect!** \U0001F4CD Nashik, Maharashtra | \U0001F4DE 9373271299 | \U0001F4E7 [tanmaypangavhane021@gmail.com]()\"\n\n</div>\n\n"
         image:
-          url: /images/icon3.svg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
