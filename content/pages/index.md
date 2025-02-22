@@ -8,10 +8,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Sharing My Journey Through Art and Code"
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      ### Welcome to My Digital Space
+
+
+      Hi, I'm tanmay pangavhane, a  AI expert ,dedicated to creating meaningful
+      experiences through my work. This space is a reflection of my
+      journey—where I showcase my skills, share my projects, and offer insights
+      into what drives me.
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
