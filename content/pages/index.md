@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: TANMAY PANGAVHANE
+      text: MY SELF TANMAY PANGAVHANE
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
