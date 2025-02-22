@@ -74,10 +74,18 @@ sections:
       - type: FeaturedItem
         title: ABOUT ME
         subtitle: '"Nashik’s Own, Kicking Towards Success."'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          "I’m Tanmay Pangavhane, an 18-year-old student from Nashik,
+          Maharashtra. Currently, I’m pursuing my first year of B.Tech in
+          Artificial Intelligence & Data Science at Parul University. Passionate
+          about technology and innovation, I’m also a football enthusiast who
+          believes in teamwork, strategy, and continuous learning. With roots in
+          Nashik’s rich culture and an eye on the future of AI, I’m driven to
+          make an impact in the world of data and intelligence."
+
+
+
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
