@@ -38,8 +38,11 @@ sections:
       type: ImageBlock
     badge:
       label: hello !
-      color: text-primary
+      color: text-neutral
       type: Badge
+      styles:
+        self:
+          fontWeight: 400
     elementId: ''
     colors: bg-light-fg-dark
     styles:
