@@ -143,7 +143,7 @@ sections:
         type: FeaturedItem
       - title: GET IN TOUCH
         subtitle: ''
-        text: "*   <div style=\"text-align: left\">I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me:</div>\n\n\U0001F4CD **Location:** Nashik, Maharashtra\n\U0001F4DE **Phone:** +91 9373271299\n\U0001F4E7 **Email:** [tanmaypangavhane021@gmail.com]()\n\nLet's connect and create something amazing together!\"\n"
+        text: "*   <div style=\"text-align: left\">I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me\U0001F4CD **Location:** Nashik, Maharashtra\n    \U0001F4DE **Phone:** +91 9373271299\n    \U0001F4E7 **Email:** [tanmaypangavhane021@gmail.com]()</div>\n\nLet's connect and create something amazing together!\"\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
