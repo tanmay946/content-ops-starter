@@ -109,6 +109,26 @@ sections:
             self:
               borderRadius: x-large
         tagline: 'Grapes, Goals, and Greatness  A Nashik Spirit."'
+      - title: GET IN TOUCH
+        subtitle: ''
+        text: "*   <div style=\"text-align: left\">I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me:</div>\n\n\U0001F4CD **Location:** Nashik, Maharashtra\n\U0001F4DE **Phone:** +91 9373271299\n\U0001F4E7 **Email:** [tanmaypangavhane021@gmail.com]()\n\nLet's connect and create something amazing together!\"\n"
+        image:
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+          type: ImageBlock
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+        type: FeaturedItem
       - title: WHAT I DO ?
         subtitle: STUDENT
         text: >+
@@ -140,26 +160,6 @@ sections:
             flexDirection: row
             textAlign: left
             justifyContent: center
-        type: FeaturedItem
-      - title: GET IN TOUCH
-        subtitle: ''
-        text: "*   <div style=\"text-align: left\">I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me:</div>\n\n\U0001F4CD **Location:** Nashik, Maharashtra\n\U0001F4DE **Phone:** +91 9373271299\n\U0001F4E7 **Email:** [tanmaypangavhane021@gmail.com]()\n\nLet's connect and create something amazing together!\"\n"
-        image:
-          url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
         title: Business Consulting
