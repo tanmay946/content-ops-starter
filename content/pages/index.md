@@ -156,7 +156,7 @@ sections:
             padding:
               - pt-5
               - pl-6
-              - pb-3
+              - pb-8
               - pr-6
             borderRadius: x-large
             flexDirection: row
