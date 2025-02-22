@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/WhatsApp Image tanmay.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
