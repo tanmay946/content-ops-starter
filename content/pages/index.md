@@ -203,7 +203,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/WhatsApp Image 2025-02-22 at 18.16.59_1bb0d72c.jpg
           altText: Featured item
           styles:
             self:
