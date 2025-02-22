@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: photo by me
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-
@@ -8,8 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: >-
-    /images/img-placeholder.svg
+  url: /images/WhatsApp Image 2025-02-22 at 18.56.24_b53e500e.jpg
   altText: Case study 3
   styles:
     self:
@@ -72,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:

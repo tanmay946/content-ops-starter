@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: AT parul
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-
@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/WhatsApp Image tanmay.jpg
   altText: Case study 1
   styles:
     self:
@@ -71,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:

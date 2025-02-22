@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: Event
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-
@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/img-placeholder.svg
+  url: /images/WhatsApp Image 2025-02-22 at 18.56.24_39422b72.jpg
   altText: Case study 2
   styles:
     self:
@@ -71,7 +71,7 @@ bottomSections:
         textAlign: center
     type: FeaturedItemsSection
 isFeatured: true
-colors: bg-light-fg-dark
+colors: bg-neutral-fg-dark
 styles:
   self:
     padding:
