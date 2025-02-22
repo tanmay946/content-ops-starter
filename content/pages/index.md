@@ -36,7 +36,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/WhatsApp Image tanmay.jpg
+      url: /images/WhatsApp Image 2025-02-22 at 18.16.59_1bb0d72c.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
