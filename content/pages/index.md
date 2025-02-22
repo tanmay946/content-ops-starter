@@ -109,7 +109,7 @@ sections:
             self:
               borderRadius: x-large
         tagline: 'Grapes, Goals, and Greatness  A Nashik Spirit."'
-      - title: 20x
+      - title: WHAT I DO ?
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
