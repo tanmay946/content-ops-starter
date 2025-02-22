@@ -385,9 +385,9 @@ sections:
       - title: ME
         tagline: ''
         subtitle: ''
-        text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+        text: |+
+          Learn from the tutorial and build your first awesome 
+
         image:
           url: /images/WhatsApp Image 2025-02-22 at 19.09.58_ae89bc87.jpg
           altText: Placeholder image
