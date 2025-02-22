@@ -143,10 +143,7 @@ sections:
         type: FeaturedItem
       - title: GET IN TOUCH
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "I'm always open to new opportunities, collaborations, and conversations. Feel free to connect with me:\n\n\U0001F4CD **Location:** Nashik, Maharashtra\n\U0001F4DE **Phone:** +91 9373271299\n\U0001F4E7 **Email:** [tanmaypangavhane021@gmail.com]()\n\nLet's connect and create something amazing together!\"\n\n\n\n\n\n"
         image:
           url: /images/icon3.svg
           altText: Featured icon three
