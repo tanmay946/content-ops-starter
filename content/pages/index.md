@@ -36,7 +36,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/WhatsApp Image 2025-02-22 at 18.16.59_1bb0d72c.jpg
+      url: >-
+        /images/DALL·E 2025-02-22 18.22.25 - A stylish and modern logo design
+        featuring the full name 'Tanmay Pangavhane' along with the initials 'T'
+        and 'P' intertwined creatively. The design sh.webp
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
