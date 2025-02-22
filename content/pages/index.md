@@ -389,7 +389,7 @@ sections:
           Learn from the tutorial and build your first awesome Netlify Create
           site.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/WhatsApp Image 2025-02-22 at 19.09.58_ae89bc87.jpg
           altText: Placeholder image
           styles:
             self:
