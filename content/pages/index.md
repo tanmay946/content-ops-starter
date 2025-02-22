@@ -111,10 +111,17 @@ sections:
         tagline: 'Grapes, Goals, and Greatness  A Nashik Spirit."'
       - title: WHAT I DO ?
         subtitle: STUDENT
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+
+          I am a B.Tech student in Artificial Intelligence & Data Science at
+          Parul University, passionate about AI, data analytics, and
+          problem-solving. I explore machine learning, data-driven innovations,
+          and technology to create meaningful solutions. Beyond academics, I am
+          a football enthusiast, applying teamwork, strategy, and perseverance
+          both on the field and in my tech journey."
+
+
+
         image:
           url: /images/icon2.svg
           altText: Featured icon two
